@@ -1,12 +1,17 @@
-html {
+body {
     background-color: #73cf65;
+    background-image: url("./record.png");
+    background-repeat: repeat;
+    margin: 0;
 }
 
 .intro {
     background-color: #9d6d35;
     color: #e6df7e;
+    text-align: center;
 }
 
-.paragraph {
+.details {
     background-color: rgb(209, 206, 206);
+    padding: 1em;
 }
